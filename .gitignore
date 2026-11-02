@@ -1,0 +1,3 @@
+# Copyrighted source documents: keep local, link from README instead
+*.pdf
+.DS_Store
